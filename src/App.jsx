@@ -23,6 +23,7 @@ function App() {
       loop: true,
       autoplay: true,
     });
+    lottie.play();
   });
 
   return (
